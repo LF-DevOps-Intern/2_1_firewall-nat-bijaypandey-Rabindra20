@@ -6,8 +6,10 @@ Steps:<br/>
 -ip a <br/>
 -Ifcfg -enp0s3<br/>
 -Ifcfg-enp0s8<br/>
-![nat](https://user-images.githubusercontent.com/53372486/140008441-18d51ba9-9b1f-42d3-9643-739c45fbc822.png)<br/>
-![host](https://user-images.githubusercontent.com/53372486/140008344-3377f4c0-30be-4132-a50a-4ec3b2df252f.png)<br/>
+<br/>
+![nat](https://user-images.githubusercontent.com/53372486/140009807-3febfbad-8634-48f2-9960-bff25bd20725.png)
+![host](https://user-images.githubusercontent.com/53372486/140009813-94f05cda-7164-428e-8eef-f6ec459d206f.png)
+
 
 ![boot](https://user-images.githubusercontent.com/53372486/140008339-4bdec54d-f990-4f14-9e5b-5e475b194a99.png)<br/>
 <br/>
