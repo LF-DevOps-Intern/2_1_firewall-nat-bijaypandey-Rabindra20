@@ -7,7 +7,7 @@ Steps:<br/>
 -Ifcfg -enp0s3<br/>
 -Ifcfg-enp0s8<br/>
 <br/>
-![nat](https://user-images.githubusercontent.com/53372486/140009807-3febfbad-8634-48f2-9960-bff25bd20725.png)
+![nat](https://user-images.githubusercontent.com/53372486/140009807-3febfbad-8634-48f2-9960-bff25bd20725.png)<br/>
 ![host](https://user-images.githubusercontent.com/53372486/140009813-94f05cda-7164-428e-8eef-f6ec459d206f.png)
 
 
