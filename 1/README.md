@@ -11,7 +11,7 @@ checking state<br/>
 b.Block certain ip range/subnet using firewalld.<br/>
 Steps:<br/>
 block<br/>
--firewall-cmd --permanent --add-rich-rule="rule family='ipv4' source address='180.76.15.0/24' reject"<br/>
+-firewall-cmd --permanent --add-rich-rule="rule family='ipv4' source address='180.76.15.154' reject"<br/>
 reload
 -firewall-cmd –reload<br/>
 ![block ip](https://user-images.githubusercontent.com/53372486/139919969-a10c0735-6853-4fe1-b11c-f82f0ea18b33.png)
